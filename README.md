@@ -59,7 +59,7 @@ Gameplay Mechanics:
 - Visual FX: energy bolts, rocket thrust, space background
 - Health tracking and score system
   
-📷 Preview:
+📷 Game Preview:
 
 ![Screenshot 2025-06-05 185625](https://github.com/user-attachments/assets/e4506106-f593-47cd-a1a5-d2e3c9a7f406)
 
